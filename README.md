@@ -8,7 +8,7 @@ Visualize the dataset
 Save the model
 Test our model performance on custom data
 
-# Steps:
+Steps:
 :Importing the libraries
 Part 1 - Data Preprocessing
        - Preprocessing the Training set
